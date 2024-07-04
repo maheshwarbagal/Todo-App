@@ -1,0 +1,28 @@
+
+.btn{
+  font-weight: 500;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+}
+.text-center{
+  margin-left: 400px;
+  padding: 10px;
+}
+.col{
+  text-align: left;
+}
+center{
+  margin-right: 30px;
+  justify-content: center;
+}
+body{
+  justify-content: center;
+}
+.items{
+  height: 200px;
+  width: 800px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10%;
+}
